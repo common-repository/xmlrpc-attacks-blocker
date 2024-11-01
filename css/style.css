@@ -1,0 +1,11 @@
+table.form-table th {
+	width: 30%;
+}
+
+.xmlrpc_selectbox th {
+	padding: 0;
+}
+
+.chosen-select {
+	width: 70%;
+}
